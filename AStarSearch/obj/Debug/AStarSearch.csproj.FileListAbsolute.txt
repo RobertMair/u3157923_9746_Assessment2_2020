@@ -1,0 +1,7 @@
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\bin\Debug\AStarSearch.exe.config
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\bin\Debug\AStarSearch.exe
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\bin\Debug\AStarSearch.pdb
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\obj\Debug\AStarSearch.csprojAssemblyReference.cache
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\obj\Debug\AStarSearch.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\obj\Debug\AStarSearch.exe
+C:\Users\Robert\OneDrive - azienda.com.au\Degree Web Design\Adv Prog (9746) - 20\u3157923_9746_Assessment2_2020\AStarSearch\obj\Debug\AStarSearch.pdb

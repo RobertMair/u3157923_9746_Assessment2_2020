@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="u3157923_9746_Assessment2.GameLoop">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="u3157923_9746_Assessment2.GameLoop.GameUpdate" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameLoop.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>QIASCAAAAAAAAAAAACQACAAAAAAAAAAAAAAABIAAAAA=</HashCode>
+      <FileName>GameLoop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="u3157923_9746_Assessment2.InitialiseProgram">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAMIAAAAAAAEAAA=</HashCode>
+      <FileName>InitialiseProgram.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="u3157923_9746_Assessment2.MenuButtons">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.SoundFXOn" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.RemoveWall" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.PlaceWall" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.MusicStart" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.ResumeGame" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.SoundFXOff" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.MusicStop" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.ExitProgram" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+      <Class Name="u3157923_9746_Assessment2.MenuButtons.PauseGame" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MenuButtons.cs</NewMemberFileName>
+        </TypeIdentifier>
+        <Lollipop Position="0.2" />
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAAAAAAACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MenuButtons.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="u3157923_9746_Assessment2.NodeList">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAgAA=</HashCode>
+      <FileName>NodeList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="u3157923_9746_Assessment2.PlayerControl">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlayerControl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,20 @@
+                                                              `W
+`0 ************************************************************ `W
+`0 *                                                          `0* `W
+`0 *  `:WELCOME TO STARSHIP ONE. CAN YOU CLEAR EACH AND EVERY   `0* `W
+`0 *  `:LEVEL TO REGAIN CONTROL AND RETURN TO EARTH SAFELY?     `0* `W
+`0 *                                                          `0* `W
+`0 *  `:KEYS:   `+Up    `0= `+W `0or `+Cursor Up                          `0* `W
+`0 *          `+Down  `0= `+S `0or `+Cursor Down                        `0* `W
+`0 *          `+Left  `0= `+A `0or `+Cursor Left                        `0* `W
+`0 *          `+Right `0= `+D `0or `+Cursor Right                       `0* `W
+`0 *                                                          `0* `W
+`0 *  `:Use the Mouse to access the Inventory and In-Game Menu. `0* `W
+`0 *                                                          `0* `W
+`0 *  `:Programming: Robert Mair                                `0* `W
+`0 *  `:Music:       Eric Skiff                                 `0* `W
+`0 *                                                          `0* `W
+`0 *          `0PRESS ANY KEY TO START, AND GOOD LUCK           `0* `W
+`0 *                                                          `0* `W
+`0 ************************************************************ `W
+                                                              `W
