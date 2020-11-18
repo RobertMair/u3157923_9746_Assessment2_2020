@@ -40,8 +40,8 @@ namespace u3157923_9746_Assessment2
             GUI.CreateGuiElementGrid(ConX, ConY);
 
             // Setup 'border' x/y co-ordinates for setting up GUI Elements (only for development purposes).
-            _text = GUI.FetchTextFile("border.txt");
-            GUI.RenderTextToConsole(0, 0, _text);
+            //_text = GUI.FetchTextFile("border.txt");
+            //GUI.RenderTextToConsole(0, 0, _text);
 
             // Setup user interface design (background) for Starship One.
             _text = GUI.FetchTextFile("starshipOneBackground.txt");

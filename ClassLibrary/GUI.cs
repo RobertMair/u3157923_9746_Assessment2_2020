@@ -11,7 +11,7 @@ namespace ClassLibrary
     public class GUI
     {
 
-        public static int gameFps = 15; // Setup Frames Per Second (FPS) for game loop GUI updates.
+        public static int gameFps = 10; // Setup Frames Per Second (FPS) for game loop GUI updates.
         public static int gameLoopCycle = 1000 / gameFps; // In milliseconds, loop delay to move NPCs. Based on FPS (frames per second) i.e. 10 frames per second = 1000/10.
         public static bool pauseGame = false; // Used to 'pause' game when require by user or for other system level events.
 

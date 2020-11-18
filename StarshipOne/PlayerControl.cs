@@ -1,5 +1,6 @@
 ﻿using ClassLibrary;
 using System;
+using System.ComponentModel;
 
 namespace u3157923_9746_Assessment2
 {
@@ -9,7 +10,7 @@ namespace u3157923_9746_Assessment2
         public static int playAreaY;
         public static int PlayerInput(GuiInput.ConsoleHandle handle, ref GuiInput.INPUT_RECORD record, ref uint recordLen, ref bool focusButton)
         {
-            // if (!GuiInput.ReadConsoleInput(handle, ref record, 1, ref recordLen)) throw new Win32Exception();
+            if (!GuiInput.ReadConsoleInput(handle, ref record, 1, ref recordLen)) throw new Win32Exception();
 
             switch (record.EventType)
             {

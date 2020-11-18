@@ -14,7 +14,7 @@
         public static int playerStatDiv = 50; // Divides oxygen and power values to align with stat bars on GUI as they only have 20 marks (so 1000/50=20).
 
         private static int _playerZnC12CellsLvl;
-        private static int _playerZnC12CellsMax = 1;
+        private static int _playerZnC12CellsMax = 20;
         private static bool _endLevel;
         private static bool _nextLevel;
         private static bool _endGame = false;

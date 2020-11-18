@@ -67,8 +67,7 @@ namespace ClassLibrary
                    {
                        "********** INFORMATION TERMINAL: YOU MUST READ THIS **********",
                        "Each level requires 20 'z' ZnC12 cells to be collect. Collect ",
-                       "Oxygen 'o' and Energy 'e' cells to maintain your space suite! ",
-                       //"Cells for your suite to stay alive."
+                       "Oxygen 'o' and Energy 'e' cells to maintain your space suite! "
                    },
                    new List<NpcBase>
                        {
@@ -77,9 +76,8 @@ namespace ClassLibrary
                        }
                    ));
 
-            // Player start x=2, y=9
             Levels.Add(new Level(1, "00_2 Hold: Mid", "00_2HoldMid.txt", "",
-                true, 57, 9, false, false,
+                true, 2, 9, false, false,
                  new List<string>
                  {
                      "You have made it to level 2, well done Riley...",
@@ -106,7 +104,12 @@ namespace ClassLibrary
                 { "You have made it to the Navigation_CIC level.",
                     "This is the last level to complete and",
                     "Starship One will be under your control!" },
-                new List<string> { "" },
+                new List<string>
+                {
+                    "********** INFORMATION TERMINAL: YOU MUST READ THIS **********",
+                    "The final level, the automatons are getting more desperate. Do",
+                    "all you can to survive and complete this level!"
+                },
                 new List<NpcBase>
                 {
                     new Homer('H',27,10,1000,1000,200,15, 27,GUI.gameFps/2,GUI.gameFps/1, GUI.gameFps/1),
